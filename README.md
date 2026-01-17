@@ -1,2 +1,2 @@
 # c-series-and-pattern-programs
-Basic C programs on series and pattern printing for beginners
+This repository contains various logic building programs in C , including right angled triangled patterns and sum of some basic series.
